@@ -69,3 +69,49 @@ h2{
     margin: 400px 0px 0px 900px;
     padding: 10px 20px;
 }
+.one{
+    margin-bottom: 250px;
+}
+.name{
+    color: royalblue;
+}
+.university{
+    color: seagreen;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
+.apurba{
+    background-image: url("photoes/image-15.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 10%;
+}
+.rony{
+    background-image: url("photoes/image-16.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 10%;
+}
+.tanvir{
+    background-image: url("photoes/image-17.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 10%;
+}
+.munni{
+    background-image: url("photoes/image-18.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 10%;
+}
+.arpa{
+    background-image: url("photoes/image-16.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 10%;
+}
+.contact{
+    margin-left: 40%;
+}
