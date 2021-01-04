@@ -46,6 +46,12 @@ h2{
     text-align: center;
     font-size: 40px;
 }
+.first-Bottom{
+    background-image: url("photoes/image-16.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 10%;
+}
 .bottom{
     box-shadow: 10px 10px 40px rgb(80, 80, 80) ;
     border-radius: 10px;
@@ -58,6 +64,7 @@ h2{
     background-color: rgb(247, 236, 236);
     margin-bottom: 100px;
 }
+
 .bottom-button{
     margin: 400px 0px 0px 900px;
     padding: 10px 20px;
