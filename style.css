@@ -1,0 +1,64 @@
+h1{
+    font-size: 50px;
+}
+body{
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(235, 235, 217);
+}
+.red{
+    color: rgb(121, 47, 47);
+}
+p{
+    font-size: 150%;
+    color: dimgray;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+    margin-bottom: 150px;
+}
+.first-top{
+    background-image: url("photoes/image-17.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 10%;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(221, 122, 122), tomato);
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: rgb(16, 16, 37);
+    font-weight: 700;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+.bottom{
+    box-shadow: 10px 10px 40px rgb(80, 80, 80) ;
+    border-radius: 10px;
+    height: 40%;
+    border-left: 10px solid;
+    border-right: 10px solid;
+    margin: 0px 25%;
+    border-image: linear-gradient(180deg,lightSalmon, tomato);
+    border-image-slice: 1;
+    background-color: rgb(247, 236, 236);
+    margin-bottom: 100px;
+}
+.bottom-button{
+    margin: 400px 0px 0px 900px;
+    padding: 10px 20px;
+}
